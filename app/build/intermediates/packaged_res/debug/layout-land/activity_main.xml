@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_grey"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/image_austria"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:contentDescription="@string/Austria"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toTopOf="@+id/image_poland"
+        app:layout_constraintEnd_toStartOf="@+id/text_austria"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="spread_inside"
+        app:srcCompat="@drawable/austria" />
+
+    <TextView
+        android:id="@+id/text_austria"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="@string/Austria"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/image_austria"
+        app:layout_constraintEnd_toStartOf="@+id/image_madagascar"
+        app:layout_constraintStart_toEndOf="@+id/image_austria"
+        app:layout_constraintTop_toTopOf="@+id/image_austria" />
+
+    <ImageView
+        android:id="@+id/image_poland"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:contentDescription="@string/Poland"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toTopOf="@+id/image_italy"
+        app:layout_constraintEnd_toStartOf="@+id/text_poland"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image_austria"
+        app:srcCompat="@drawable/poland" />
+
+    <TextView
+        android:id="@+id/text_poland"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="@string/Poland"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/image_poland"
+        app:layout_constraintEnd_toStartOf="@+id/image_thailand"
+        app:layout_constraintStart_toEndOf="@+id/image_poland"
+        app:layout_constraintTop_toTopOf="@+id/image_poland" />
+
+    <ImageView
+        android:id="@+id/image_italy"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:contentDescription="@string/Italy"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toTopOf="@+id/image_columbia"
+        app:layout_constraintEnd_toStartOf="@+id/text_italy"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image_poland"
+        app:srcCompat="@drawable/italy" />
+
+    <TextView
+        android:id="@+id/text_italy"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="@string/Italy"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/image_italy"
+        app:layout_constraintEnd_toStartOf="@+id/image_denmark"
+        app:layout_constraintStart_toEndOf="@+id/image_italy"
+        app:layout_constraintTop_toTopOf="@+id/image_italy" />
+
+    <ImageView
+        android:id="@+id/image_columbia"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:contentDescription="@string/Columbia"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toTopOf="@+id/button_to_second"
+        app:layout_constraintEnd_toStartOf="@+id/text_columbia"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image_italy"
+        app:srcCompat="@drawable/columbia" />
+
+    <TextView
+        android:id="@+id/text_columbia"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="@string/Columbia"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/image_columbia"
+        app:layout_constraintEnd_toStartOf="@+id/image_switzerland"
+        app:layout_constraintStart_toEndOf="@+id/image_columbia"
+        app:layout_constraintTop_toTopOf="@+id/image_columbia" />
+
+    <TextView
+        android:id="@+id/text_madagascar"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="16dp"
+        android:text="@string/Madagascar"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/image_madagascar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/image_madagascar"
+        app:layout_constraintTop_toTopOf="@+id/image_madagascar" />
+
+    <TextView
+        android:id="@+id/text_thailand"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="16dp"
+        android:text="@string/Thailand"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/image_thailand"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/image_thailand"
+        app:layout_constraintTop_toTopOf="@+id/image_thailand" />
+
+    <TextView
+        android:id="@+id/text_denmark"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="16dp"
+        android:text="@string/Denmark"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/image_denmark"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/image_denmark"
+        app:layout_constraintTop_toTopOf="@+id/image_denmark" />
+
+    <ImageView
+        android:id="@+id/image_switzerland"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:contentDescription="@string/Switzerland"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toTopOf="@+id/button_to_second"
+        app:layout_constraintEnd_toStartOf="@+id/text_switzerland"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/text_columbia"
+        app:layout_constraintTop_toBottomOf="@+id/image_denmark"
+        app:srcCompat="@drawable/switzerland" />
+
+    <ImageView
+        android:id="@+id/image_madagascar"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:contentDescription="@string/Madagascar"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toTopOf="@+id/image_thailand"
+        app:layout_constraintEnd_toStartOf="@+id/text_madagascar"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/text_austria"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="spread_inside"
+        app:srcCompat="@drawable/madagascar" />
+
+    <ImageView
+        android:id="@+id/image_denmark"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:contentDescription="@string/Denmark"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toTopOf="@+id/image_switzerland"
+        app:layout_constraintEnd_toStartOf="@+id/text_denmark"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/text_italy"
+        app:layout_constraintTop_toBottomOf="@+id/image_thailand"
+        app:srcCompat="@drawable/denmark" />
+
+    <ImageView
+        android:id="@+id/image_thailand"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:contentDescription="@string/Thailand"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toTopOf="@+id/image_denmark"
+        app:layout_constraintEnd_toStartOf="@+id/text_thailand"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/text_poland"
+        app:layout_constraintTop_toBottomOf="@+id/image_madagascar"
+        app:srcCompat="@drawable/thailand" />
+
+    <TextView
+        android:id="@+id/text_switzerland"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="16dp"
+        android:text="@string/Switzerland"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/image_switzerland"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/image_switzerland"
+        app:layout_constraintTop_toTopOf="@+id/image_switzerland" />
+
+    <Button
+        android:id="@+id/button_to_second"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:backgroundTint="@color/teal_200"
+        android:onClick="onToSecondActivity"
+        android:text="@string/to_second_activity"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

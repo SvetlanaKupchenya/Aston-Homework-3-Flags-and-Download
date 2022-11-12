@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\drawable_italy.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\drawable\\italy.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\layout-land_activity_third.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\layout-land\\activity_third.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\layout_activity_third.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\layout\\activity_third.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\drawable_ic_baseline_add_to_queue_24.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\drawable\\ic_baseline_add_to_queue_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\drawable_error.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\drawable\\error.png"
+    },
+    {
+        "merged": "com.example.homework3flags.app-merged_res-9:/layout_activity_third.xml.flat",
+        "source": "com.example.homework3flags.app-main-11:/layout/activity_third.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\drawable_thailand.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\drawable\\thailand.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\drawable_denmark.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\drawable\\denmark.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.homework3flags.app-merged_res-9:/layout-land_activity_second.xml.flat",
+        "source": "com.example.homework3flags.app-main-11:/layout-land/activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\drawable_austria.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\drawable\\austria.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-pngs-4:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.homework3flags.app-merged_res-9:/layout-land_activity_third.xml.flat",
+        "source": "com.example.homework3flags.app-main-11:/layout-land/activity_third.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\drawable_madagascar.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\drawable\\madagascar.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\drawable_switzerland.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\drawable\\switzerland.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "com.example.homework3flags.app-merged_res-9:/layout_activity_second.xml.flat",
+        "source": "com.example.homework3flags.app-main-11:/layout/activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\drawable_poland.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\drawable\\poland.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\drawable_columbia.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\drawable\\columbia.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-merged_res-9:\\layout-land_activity_second.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.homework3flags.app-main-11:\\layout-land\\activity_second.xml"
+    }
+]
